@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "analiza-sync": "^1.0.1",
     "readline-sync": "^1.4.10"
   },
   "name": "riddles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

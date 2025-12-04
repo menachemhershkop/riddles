@@ -11,4 +11,7 @@ export default function showStata(player){
     return {total_time:seconds_time, average_time:seconds_time/i}
 }
 
-// creaעןא 
+// createPlayer("moshe")
+// addSolveTime(player_data,3.32)
+// addSolveTime(player_data,9.23)
+// console.log(showStata(player_data));
