@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync'
 import input from 'analiza-sync'
-// import {r2} from '../riddle-game/r2.js';
+import {r2} from '../riddle-game/r2.js';
 export default function askRiddle(riddleObj){
     while(true){
     console.log(riddleObj['name'], riddleObj['taskDescription']);
